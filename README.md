@@ -1,1 +1,1 @@
-# Activista-6 afegir contingut
+# modificacio desde git
